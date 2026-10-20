@@ -3,7 +3,7 @@
 Hands-on cybersecurity governance, risk and compliance projects.
 
 ## About me
-hird-year Cybersecurity Management student at King Khalid University, passionate about Governance, Risk, and Compliance (GRC), IT auditing, and cybersecurity policy framework design.   
+Third-year Cybersecurity Management student at King Khalid University, passionate about Governance, Risk, and Compliance (GRC), IT auditing, and cybersecurity policy framework design.   
 
 ## Projects
 
