@@ -22,7 +22,7 @@ Third-year Cybersecurity Management student at King Khalid University, passionat
 
 ## Frameworks & Standards Used
 
-* **NCA ECC-1:2018** (Essential Cybersecurity Controls)
+* **NCA ECC-2:2024** (Essential Cybersecurity Controls)
 * **NIST SP 800-30 Rev. 1** (Guide for Conducting Risk Assessments)
 * **SAMA Cybersecurity Framework**
 * **PDPL** (Personal Data Protection Law)
