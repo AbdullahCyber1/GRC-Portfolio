@@ -26,4 +26,4 @@ Third-year Cybersecurity Management student at King Khalid University, passionat
 * **NIST SP 800-30 Rev. 1** (Guide for Conducting Risk Assessments)
 * **SAMA Cybersecurity Framework**
 * **PDPL** (Personal Data Protection Law)
-* *PCI DSS v4.0.1* (Payment Card Industry Data Security Standard)
+* **PCI DSS v4.0.1** (Payment Card Industry Data Security Standard)
