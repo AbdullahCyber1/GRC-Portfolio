@@ -19,7 +19,6 @@ Third-year Cybersecurity Management student at King Khalid University, passionat
 * **`04-risk-assessment-register.xlsx`** - Risk Rating (NIST SP 800-30)
 * **`05-nca-ecc-compliance-mapping.xlsx`** - NCA ECC Controls Mapping
 * **`06-risk-summary.md`** - Executive Risk Assessment Summary
-* *PCI DSS v4.0.1* (Payment Card Industry Data Security Standard)
 
 ## Frameworks & Standards Used
 
@@ -27,3 +26,4 @@ Third-year Cybersecurity Management student at King Khalid University, passionat
 * **NIST SP 800-30 Rev. 1** (Guide for Conducting Risk Assessments)
 * **SAMA Cybersecurity Framework**
 * **PDPL** (Personal Data Protection Law)
+* *PCI DSS v4.0.1* (Payment Card Industry Data Security Standard)
