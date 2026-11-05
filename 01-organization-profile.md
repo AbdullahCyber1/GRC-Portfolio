@@ -7,7 +7,7 @@ A fictional Saudi digital-only bank with no physical branches. It offers account
 - Customers: ~500,000
 - Core systems: mobile app, core banking system, payment gateway, customer database, KYC (identity verification) system, cloud hosting
 - Critical data: identity data, accounts and balances, card data, transaction history
-- Compliance references: SAMA CSF, NCA ECC
+- Compliance references: SAMA CSF, NCA ECC , PCI DSS v4.0.1
 
 ## Scope of this assessment
 In scope: the systems listed above, plus key employees and vendors.
